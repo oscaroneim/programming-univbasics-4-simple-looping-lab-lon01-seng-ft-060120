@@ -1,4 +1,4 @@
-require 'pry'
+#require 'pry'
 
 def loop_message_five_times(string)
 counter = 1 
@@ -21,7 +21,6 @@ def output_array(array)
   
   while counter < array.length do
     puts array 
-    binding.pry
     counter += 1 
   end
 end
