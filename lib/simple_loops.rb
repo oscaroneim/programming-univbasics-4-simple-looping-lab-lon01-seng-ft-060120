@@ -4,5 +4,4 @@ while counter <= 5 do
   puts string
   counter += 1 
 end
-string
 end
