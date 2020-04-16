@@ -1,7 +1,7 @@
 def loop_message_five_times(string)
-string = 1 
-while string <= 5 do
+counter = 1 
+while counter <= 5 do
   puts string
-  string += 1 
+  counter += 1 
 end
 end
